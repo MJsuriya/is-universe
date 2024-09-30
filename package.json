@@ -1,0 +1,22 @@
+{
+  "name": "is-universe",
+  "version": "1.0.0",
+  "description": "To check if the given string is universe or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJsuriya/is-universe.git"
+  },
+  "keywords": [
+    "universe"
+  ],
+  "author": "Jeya Suriya Muthumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJsuriya/is-universe/issues"
+  },
+  "homepage": "https://github.com/MJsuriya/is-universe#readme"
+}
